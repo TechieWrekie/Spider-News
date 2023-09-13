@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Spider-News/static/css/main.e6c13ad2.css",
+    "main.js": "/Spider-News/static/js/main.911f9649.js",
+    "static/js/787.c7d512b2.chunk.js": "/Spider-News/static/js/787.c7d512b2.chunk.js",
+    "static/media/Spinner.gif": "/Spider-News/static/media/Spinner.e19bc2414f624cb365eb.gif",
+    "index.html": "/Spider-News/index.html",
+    "main.e6c13ad2.css.map": "/Spider-News/static/css/main.e6c13ad2.css.map",
+    "main.911f9649.js.map": "/Spider-News/static/js/main.911f9649.js.map",
+    "787.c7d512b2.chunk.js.map": "/Spider-News/static/js/787.c7d512b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.911f9649.js"
+  ]
+}
